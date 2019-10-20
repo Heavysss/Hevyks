@@ -1,5 +1,7 @@
 from random import randint
 x = 0
+purre = 0
+
 while True:
 	input()
 	x = randint(1,2)
